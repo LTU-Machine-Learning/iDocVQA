@@ -7,5 +7,10 @@ The images for the datasets are the same from both the original training set of 
 <h4>Instruction Makes a Difference </h4>
 
 <pre><code>
-
+@article{adewumi2024instruction,
+  title={Instruction Makes a Difference},
+  author={Adewumi, Tosin and Habib, Nudrat and Alkhaled, Lama and Barney, Elisa},
+  journal={arXiv preprint arXiv:2402.00453},
+  year={2024}
+}
 </code></pre>
